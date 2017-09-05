@@ -1,6 +1,6 @@
 {
   "name": "Bot Framework App Sample",
   "description": "Bot Framework App Sample",
-  "repository": "https://glmw@bitbucket.org/glmwdev/emotion-chat-bot.git",
+  "repository": "https://github.com/glmw/emotion-chat-bot.git",
   "keywords": ["bot framework", "bot", "heroku"]
 }
